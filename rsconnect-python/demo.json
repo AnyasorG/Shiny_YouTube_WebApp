@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\anyas\\OneDrive\\Desktop\\bioproject\\shiny\\demo",
+        "app_url": "https://anyasordatashinyapp.shinyapps.io/demo/",
+        "app_id": 12786745,
+        "app_guid": null,
+        "title": "demo",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
